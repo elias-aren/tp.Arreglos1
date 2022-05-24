@@ -1,2 +1,2 @@
-# tp.Arreglos1
+# ejercicio1
 Created with CodeSandbox
